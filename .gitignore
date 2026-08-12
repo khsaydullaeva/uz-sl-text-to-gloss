@@ -1,0 +1,23 @@
+# ---- regenerable / large training artifacts ----
+artifacts/ckpts/
+artifacts/pose_ui/*.pose
+artifacts/pose_ui/*.mp4
+artifacts/corpus/
+artifacts/sense_embeddings/
+
+# ---- transient ----
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.log
+.DS_Store
+nohup.out
+.venv/
+.venv-*/
+logs/
+.env
+data/raw/
+data/
+.gen_staging/
+.vscode/
+.claude/

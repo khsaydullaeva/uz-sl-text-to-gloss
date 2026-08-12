@@ -1,0 +1,100 @@
+{
+  "tokens": [
+    "biz",
+    "uyimiz",
+    "uchun",
+    "qurmoq",
+    "insonlar",
+    "uchun",
+    "[dct]borib-kelish[dct]",
+    "biroz",
+    "qulay",
+    "emas"
+  ],
+  "content": [
+    "uyimiz",
+    "qurmoq",
+    "insonlar",
+    "[dct]borib-kelish[dct]",
+    "biroz",
+    "qulay",
+    "emas"
+  ],
+  "resolutions": [
+    {
+      "word": "uyimiz",
+      "method": "sign",
+      "form": "uy"
+    },
+    {
+      "word": "qurmoq",
+      "method": "sign",
+      "form": "qurmoq"
+    },
+    {
+      "word": "insonlar",
+      "method": "sign",
+      "form": "inson"
+    },
+    {
+      "word": "borib-kelish",
+      "method": "oov",
+      "form": null,
+      "gloss_token": "[dct]borib-kelish[dct]"
+    },
+    {
+      "word": "biroz",
+      "method": "sign",
+      "form": "biroz"
+    },
+    {
+      "word": "qulay",
+      "method": "fingerspell",
+      "form": "qulay"
+    },
+    {
+      "word": "emas",
+      "method": "sign",
+      "form": "emas"
+    }
+  ],
+  "matched": [
+    [
+      "uyimiz",
+      "uy"
+    ],
+    [
+      "qurmoq",
+      "qurmoq"
+    ],
+    [
+      "insonlar",
+      "inson"
+    ],
+    [
+      "biroz",
+      "biroz"
+    ],
+    [
+      "qulay",
+      "qulay"
+    ],
+    [
+      "emas",
+      "emas"
+    ]
+  ],
+  "oov": [
+    "borib-kelish"
+  ],
+  "gloss": "BIZ UYIMIZ UCHUN QURMOQ INSONLAR UCHUN [DCT]BORIB-KELISH[DCT] BIROZ QULAY EMAS",
+  "gloss_tokens": [
+    "uyimiz",
+    "qurmoq",
+    "insonlar",
+    "[dct]borib-kelish[dct]",
+    "biroz",
+    "qulay",
+    "emas"
+  ]
+}

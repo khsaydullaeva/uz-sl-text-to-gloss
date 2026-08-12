@@ -1,0 +1,140 @@
+{
+  "tokens": [
+    "uy",
+    "shahar",
+    "uzoq",
+    "joy",
+    "bo'ldi",
+    "shuning",
+    "uchun",
+    "bormoq",
+    "kelmoq",
+    "kam",
+    "noqulay"
+  ],
+  "content": [
+    "uy",
+    "shahar",
+    "uzoq",
+    "joy",
+    "bo'ldi",
+    "shuning",
+    "bormoq",
+    "kelmoq",
+    "kam",
+    "noqulay"
+  ],
+  "resolutions": [
+    {
+      "word": "uy",
+      "method": "sign",
+      "form": "uy"
+    },
+    {
+      "word": "shahar",
+      "method": "sign",
+      "form": "shahar"
+    },
+    {
+      "word": "uzoq",
+      "method": "sign",
+      "form": "uzoq",
+      "ambiguous": true,
+      "alternatives": [
+        "sgn_1347"
+      ]
+    },
+    {
+      "word": "joy",
+      "method": "fingerspell",
+      "form": "joy"
+    },
+    {
+      "word": "boʻldi",
+      "method": "sign",
+      "form": "boʻldi",
+      "gloss_token": "bo'ldi"
+    },
+    {
+      "word": "shuning",
+      "method": "fingerspell",
+      "form": "shuning"
+    },
+    {
+      "word": "bormoq",
+      "method": "sign",
+      "form": "bormoq"
+    },
+    {
+      "word": "kelmoq",
+      "method": "sign",
+      "form": "kelmoq"
+    },
+    {
+      "word": "kam",
+      "method": "sign",
+      "form": "kam"
+    },
+    {
+      "word": "noqulay",
+      "method": "fingerspell",
+      "form": "noqulay"
+    }
+  ],
+  "matched": [
+    [
+      "uy",
+      "uy"
+    ],
+    [
+      "shahar",
+      "shahar"
+    ],
+    [
+      "uzoq",
+      "uzoq"
+    ],
+    [
+      "joy",
+      "joy"
+    ],
+    [
+      "boʻldi",
+      "boʻldi"
+    ],
+    [
+      "shuning",
+      "shuning"
+    ],
+    [
+      "bormoq",
+      "bormoq"
+    ],
+    [
+      "kelmoq",
+      "kelmoq"
+    ],
+    [
+      "kam",
+      "kam"
+    ],
+    [
+      "noqulay",
+      "noqulay"
+    ]
+  ],
+  "oov": [],
+  "gloss": "UY SHAHAR UZOQ JOY BO'LDI SHUNING UCHUN BORMOQ KELMOQ KAM NOQULAY",
+  "gloss_tokens": [
+    "uy",
+    "shahar",
+    "uzoq",
+    "joy",
+    "bo'ldi",
+    "shuning",
+    "bormoq",
+    "kelmoq",
+    "kam",
+    "noqulay"
+  ]
+}

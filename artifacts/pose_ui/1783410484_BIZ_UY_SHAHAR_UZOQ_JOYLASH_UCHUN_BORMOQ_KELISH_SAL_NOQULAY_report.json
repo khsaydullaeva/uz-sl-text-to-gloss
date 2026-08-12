@@ -1,0 +1,116 @@
+{
+  "tokens": [
+    "biz",
+    "uy",
+    "shahar",
+    "uzoq",
+    "joylash",
+    "uchun",
+    "bormoq",
+    "kelish",
+    "sal",
+    "noqulay"
+  ],
+  "content": [
+    "uy",
+    "shahar",
+    "uzoq",
+    "joylash",
+    "bormoq",
+    "kelish",
+    "sal",
+    "noqulay"
+  ],
+  "resolutions": [
+    {
+      "word": "uy",
+      "method": "sign",
+      "form": "uy"
+    },
+    {
+      "word": "shahar",
+      "method": "sign",
+      "form": "shahar"
+    },
+    {
+      "word": "uzoq",
+      "method": "sign",
+      "form": "uzoq",
+      "ambiguous": true,
+      "alternatives": [
+        "sgn_1347"
+      ]
+    },
+    {
+      "word": "joylash",
+      "method": "fingerspell",
+      "form": "joylash"
+    },
+    {
+      "word": "bormoq",
+      "method": "sign",
+      "form": "bormoq"
+    },
+    {
+      "word": "kelish",
+      "method": "fingerspell",
+      "form": "kelish"
+    },
+    {
+      "word": "sal",
+      "method": "fingerspell",
+      "form": "sal"
+    },
+    {
+      "word": "noqulay",
+      "method": "fingerspell",
+      "form": "noqulay"
+    }
+  ],
+  "matched": [
+    [
+      "uy",
+      "uy"
+    ],
+    [
+      "shahar",
+      "shahar"
+    ],
+    [
+      "uzoq",
+      "uzoq"
+    ],
+    [
+      "joylash",
+      "joylash"
+    ],
+    [
+      "bormoq",
+      "bormoq"
+    ],
+    [
+      "kelish",
+      "kelish"
+    ],
+    [
+      "sal",
+      "sal"
+    ],
+    [
+      "noqulay",
+      "noqulay"
+    ]
+  ],
+  "oov": [],
+  "gloss": "BIZ UY SHAHAR UZOQ JOYLASH UCHUN BORMOQ KELISH SAL NOQULAY",
+  "gloss_tokens": [
+    "uy",
+    "shahar",
+    "uzoq",
+    "joylash",
+    "bormoq",
+    "kelish",
+    "sal",
+    "noqulay"
+  ]
+}

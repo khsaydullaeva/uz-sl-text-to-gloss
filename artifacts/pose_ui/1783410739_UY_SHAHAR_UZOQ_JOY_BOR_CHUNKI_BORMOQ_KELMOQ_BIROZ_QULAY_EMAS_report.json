@@ -1,0 +1,139 @@
+{
+  "tokens": [
+    "uy",
+    "shahar",
+    "uzoq",
+    "joy",
+    "bor",
+    "chunki",
+    "bormoq",
+    "kelmoq",
+    "biroz",
+    "qulay",
+    "emas"
+  ],
+  "content": [
+    "uy",
+    "shahar",
+    "uzoq",
+    "joy",
+    "bor",
+    "bormoq",
+    "kelmoq",
+    "biroz",
+    "qulay",
+    "emas"
+  ],
+  "resolutions": [
+    {
+      "word": "uy",
+      "method": "sign",
+      "form": "uy"
+    },
+    {
+      "word": "shahar",
+      "method": "sign",
+      "form": "shahar"
+    },
+    {
+      "word": "uzoq",
+      "method": "sign",
+      "form": "uzoq",
+      "ambiguous": true,
+      "alternatives": [
+        "sgn_1347"
+      ]
+    },
+    {
+      "word": "joy",
+      "method": "fingerspell",
+      "form": "joy"
+    },
+    {
+      "word": "bor",
+      "method": "sign",
+      "form": "bor"
+    },
+    {
+      "word": "bormoq",
+      "method": "sign",
+      "form": "bormoq"
+    },
+    {
+      "word": "kelmoq",
+      "method": "sign",
+      "form": "kelmoq"
+    },
+    {
+      "word": "biroz",
+      "method": "sign",
+      "form": "biroz"
+    },
+    {
+      "word": "qulay",
+      "method": "fingerspell",
+      "form": "qulay"
+    },
+    {
+      "word": "emas",
+      "method": "sign",
+      "form": "emas"
+    }
+  ],
+  "matched": [
+    [
+      "uy",
+      "uy"
+    ],
+    [
+      "shahar",
+      "shahar"
+    ],
+    [
+      "uzoq",
+      "uzoq"
+    ],
+    [
+      "joy",
+      "joy"
+    ],
+    [
+      "bor",
+      "bor"
+    ],
+    [
+      "bormoq",
+      "bormoq"
+    ],
+    [
+      "kelmoq",
+      "kelmoq"
+    ],
+    [
+      "biroz",
+      "biroz"
+    ],
+    [
+      "qulay",
+      "qulay"
+    ],
+    [
+      "emas",
+      "emas"
+    ]
+  ],
+  "oov": [],
+  "gloss": "UY SHAHAR UZOQ JOY BOR CHUNKI BORMOQ KELMOQ BIROZ QULAY EMAS",
+  "gloss_tokens": [
+    "uy",
+    "shahar",
+    "uzoq",
+    "joy",
+    "bor",
+    "bormoq",
+    "kelmoq",
+    "biroz",
+    "qulay",
+    "emas"
+  ]
+}

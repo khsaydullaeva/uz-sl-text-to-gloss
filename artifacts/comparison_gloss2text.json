@@ -1,0 +1,37 @@
+{
+  "test_size": 130,
+  "models": {
+    "mbart50_g2t": {
+      "model": "mbart50_g2t",
+      "num_examples": 130,
+      "bleu": 2.4545783413583546,
+      "chrf": 30.381976712822407,
+      "gloss_token_f1": 0.18375298964255396,
+      "exact_match": 0.0
+    },
+    "nllb200_g2t": {
+      "model": "nllb200_g2t",
+      "num_examples": 130,
+      "bleu": 17.287376069904735,
+      "chrf": 53.81320215376492,
+      "gloss_token_f1": 0.4089649092335686,
+      "exact_match": 0.0
+    },
+    "qwen25_g2t": {
+      "model": "qwen25_g2t",
+      "num_examples": 130,
+      "bleu": 4.884221370382295,
+      "chrf": 42.80411174762592,
+      "gloss_token_f1": 0.2555059587462771,
+      "exact_match": 0.0
+    },
+    "gemma2_g2t": {
+      "model": "gemma2_g2t",
+      "num_examples": 130,
+      "bleu": 5.414426625979464,
+      "chrf": 43.21756372526362,
+      "gloss_token_f1": 0.2681410362278298,
+      "exact_match": 0.0
+    }
+  }
+}

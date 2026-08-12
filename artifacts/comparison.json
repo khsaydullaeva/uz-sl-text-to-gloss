@@ -1,0 +1,37 @@
+{
+  "test_size": 130,
+  "models": {
+    "mbart50": {
+      "model": "mbart50",
+      "num_examples": 130,
+      "bleu": 20.10084283631741,
+      "chrf": 55.4643195475755,
+      "gloss_token_f1": 0.5257608725690583,
+      "exact_match": 0.007692307692307693
+    },
+    "nllb200": {
+      "model": "nllb200",
+      "num_examples": 130,
+      "bleu": 27.516309763994844,
+      "chrf": 61.34622618869685,
+      "gloss_token_f1": 0.6023841843349355,
+      "exact_match": 0.007692307692307693
+    },
+    "qwen25": {
+      "model": "qwen25",
+      "num_examples": 130,
+      "bleu": 21.52807748878075,
+      "chrf": 54.90289216723648,
+      "gloss_token_f1": 0.5279481890136051,
+      "exact_match": 0.0
+    },
+    "gemma2": {
+      "model": "gemma2",
+      "num_examples": 130,
+      "bleu": 24.508248661084433,
+      "chrf": 57.081907906878584,
+      "gloss_token_f1": 0.5625853697643816,
+      "exact_match": 0.015384615384615385
+    }
+  }
+}
